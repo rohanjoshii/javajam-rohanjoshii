@@ -1,0 +1,48 @@
+body {
+  font-family: Arial, Verdana, sans-serif;
+  background-image: url("../images/javabackground.gif");
+
+}
+
+h1  {
+  background-color: #D2B48C;
+  background-repeat: no-repeat;
+  padding-right: 195px;
+  padding-left: 195px;
+
+}
+
+nav {
+  text-align: center;
+  font-weight: bold;
+}
+
+ul {
+  list-style-image: url("../images/marker.gif");
+}
+
+footer  {
+    background-color: #D2B48C;
+    color: #000000;
+    font-style: italic;
+    font-size: 50%;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+#container {
+   margin-right: auto;
+   margin-left: auto;
+   width: 1000px;
+   background-color: #ffffff;
+   box-shadow: 5px 5px 5px #1e1e1e;
+
+}
+
+#container {
+  background-color: #F5F5DC;
+
+}
+#content {
+  margin-left: 20px;
+}
